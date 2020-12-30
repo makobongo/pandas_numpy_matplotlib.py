@@ -1,0 +1,197 @@
+Rank,Country/Territory,GDP(US$million)
+,World[19],83844988.0
+1,United States,20807269.0
+2,China[n 2][n 3],14860775.0
+3,Japan,4910580.0
+4,Germany,3780553.0
+5,United Kingdom,2638296.0
+6,India,2592583.0
+7,France,2551451.0
+8,Italy,1848222.0
+9,Canada,1600264.0
+10,South Korea,1586786.0
+11,Russia[n 4],1464078.0
+12,Brazil,1363767.0
+13,Australia,1334688.0
+14,Spain,1247464.0
+15,Indonesia,1088768.0
+16,Mexico,1040372.0
+17,Netherlands,886339.0
+18,Switzerland,707868.0
+19,Saudi Arabia,680897.0
+20,Turkey,649436.0
+21,Taiwan[n 5],635547.0
+22,Iran,610662.0
+23,Poland,580894.0
+24,Sweden,529054.0
+25,Thailand,509200.0
+26,Belgium,503416.0
+27,Nigeria,442976.0
+28,Austria,432894.0
+29,Ireland,399064.0
+30,Israel,383425.0
+31,Argentina,382760.0
+32,Philippines,367362.0
+33,Norway,366386.0
+34,Egypt,361875.0
+35,United Arab Emirates,353899.0
+36,Hong Kong (China)[n 6],341319.0
+37,Vietnam,340602.0
+38,Denmark,339626.0
+39,Singapore,337451.0
+40,Malaysia,336330.0
+41,Bangladesh,317768.0
+42,Pakistan (2019),284200.0
+43,South Africa,282588.0
+44,Finland,267856.0
+45,Colombia,264933.0
+46,Romania,248624.0
+47,Chile,245414.0
+48,Czech Republic,241975.0
+49,Portugal,221716.0
+50,Peru,195761.0
+51,Greece,194376.0
+52,New Zealand,193545.0
+53,Iraq,178112.0
+54,Kazakhstan,165730.0
+55,Hungary,149939.0
+56,Qatar,147791.0
+57,Algeria,147323.0
+58,Ukraine,142250.0
+59,Morocco,112220.0
+60,Kuwait,108656.0
+61,Slovakia,101892.0
+62,Kenya,101048.0
+63,Ethiopia,95588.0
+64,Puerto Rico (United States),93968.0
+65,Ecuador,93078.0
+66,Sri Lanka,81120.0
+67,Dominican Republic,77883.0
+68,Guatemala,76191.0
+69,Myanmar,70890.0
+70,Luxembourg,68613.0
+71,Bulgaria,67917.0
+72,Ghana,67337.0
+73,Tanzania,64123.0
+74,Angola,62724.0
+75,Oman,62305.0
+76,Côte d'Ivoire,61502.0
+77,Panama,60286.0
+78,Uzbekistan,59771.0
+79,Costa Rica,59645.0
+80,Belarus,57708.0
+81,Croatia,56768.0
+82,Lithuania,55064.0
+83,Uruguay,54135.0
+84,Serbia,51999.0
+85,Slovenia,51802.0
+86,Venezuela,48610.0
+87,Turkmenistan,47986.0
+88,"Congo, Democratic Republic of the",46062.0
+89,Jordan,42609.0
+90,Azerbaijan,41666.0
+91,Tunisia,39226.0
+92,Cameroon,39036.0
+93,Bolivia,38938.0
+94,Uganda,37733.0
+95,Paraguay,35606.0
+96,Bahrain,34624.0
+97,Latvia,33015.0
+98,Sudan,32576.0
+99,Nepal,32158.0
+100,Estonia,30468.0
+101,Cambodia,26316.0
+102,Macau (China)[n 7],26348.0
+103,El Salvador,24784.0
+104,Senegal,24409.0
+105,Honduras,23984.0
+106,Papua New Guinea,23283.0
+107,Cyprus,23246.0
+108,Trinidad and Tobago,22718.0
+109,Libya,21805.0
+110,Yemen,20948.0
+111,Iceland,20805.0
+112,Afghanistan,19006.0
+113,Zambia,18909.0
+114,Bosnia and Herzegovina,18893.0
+115,Lebanon,18734.0
+116,Laos,18653.0
+117,Mali,17685.0
+118,Georgia,16316.0
+119,Burkina Faso,16082.0
+120,Botswana,15872.0
+121,Benin,15292.0
+122,Gabon,15145.0
+123,Palestine[n 8],14750.0
+124,Mozambique,14557.0
+125,Malta,14290.0
+126,Guinea,14238.0
+127,Jamaica,14228.0
+128,Madagascar,14199.0
+129,Albania,14034.0
+130,Zimbabwe,14002.0
+131,Mongolia,13385.0
+132,Niger,12971.0
+133,Armenia,12813.0
+134,North Macedonia,12510.0
+135,Nicaragua,11905.0
+136,The Bahamas,11560.0
+137,Mauritius,11341.0
+138,Moldova,11241.0
+139,Brunei,10647.0
+140,Chad,10510.0
+141,Rwanda,10428.0
+142,Namibia,10252.0
+143,Equatorial Guinea,10028.0
+144,"Congo, Republic of the",9964.0
+145,Haiti,8347.0
+146,Malawi,8330.0
+147,Tajikistan,7898.0
+148,Kosovo,7484.0
+149,Kyrgyzstan,7480.0
+150,Mauritania,7428.0
+151,Guyana,6806.0
+152,Togo,5719.0
+153,Montenegro,4943.0
+154,Somalia,4918.0
+155,Maldives,4712.0
+156,Barbados,4630.0
+157,South Sudan,4177.0
+158,Sierra Leone,4140.0
+159,Fiji,3932.0
+160,Eswatini,3848.0
+161,Djibouti,3408.0
+162,Burundi,3131.0
+163,Liberia,3068.0
+164,Bhutan,2587.0
+165,Suriname,2538.0
+166,Central African Republic,2321.0
+167,Aruba (Netherlands),2288.0
+168,Eritrea,2075.0
+169,Timor-Leste,1920.0
+170,Lesotho,1906.0
+171,Cabo Verde,1870.0
+172,The Gambia,1806.0
+173,Saint Lucia,1770.0
+174,Belize,1556.0
+175,Solomon Islands,1551.0
+176,San Marino,1410.0
+177,Guinea-Bissau,1392.0
+178,Antigua and Barbuda,1389.0
+179,Comoros,1200.0
+180,Seychelles,1198.0
+181,Grenada,1074.0
+182,Saint Kitts and Nevis,871.0
+183,Vanuatu,864.0
+184,Samoa,829.0
+185,Saint Vincent and the Grenadines,777.0
+186,Dominica,545.0
+187,Tonga,503.0
+188,São Tomé and Príncipe,417.0
+189,"Micronesia, Federated States of",395.0
+190,Palau,251.0
+191,Marshall Islands,225.0
+192,Kiribati,194.0
+193,Nauru,114.0
+194,Tuvalu,45.0
+—,Syria,
